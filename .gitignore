@@ -42,5 +42,3 @@ buck-out/
 android/app/libs
 *.keystore
 
-_book/
-
