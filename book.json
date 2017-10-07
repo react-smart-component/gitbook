@@ -1,0 +1,131 @@
+{
+  "title": "react-smart-component 文档",
+  "description": "react-smart-component 基础组件使用介绍",
+  "author": "chenyiqin",
+  "output.name": "site",
+  "language": "zh-hans",
+  "gitbook": "3.2.2",
+  "root": ".",
+  "structure": {
+    "readme": "README.md"
+  },
+  "links": {
+    "sidebar": {
+      "Home": "https://react-smart-component.github.io"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins": [
+    "-lunr",
+    "-search",
+    "-highlight",
+    "-livereload",
+    "search-plus",
+    "simple-page-toc",
+    "github",
+    "github-buttons",
+    "edit-link",
+    "disqus",
+    "prism",
+    "prism-themes",
+    "advanced-emoji",
+    "anchors",
+    "include-codeblock",
+    "ace",
+    "emphasize",
+    "katex",
+    "splitter",
+    "mermaid",
+    "tbfed-pagefooter",
+    "expandable-chapters-small",
+    "sectionx",
+    "donate",
+    "local-video",
+    "sitemap-general",
+    "anchor-navigation-ex",
+    "favicon",
+    "todo"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false
+    },
+    "disqus": {
+      "shortName": "react-smart-component"
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+      ]
+    },
+    "github": {
+      "url": "https://github.com/react-smart-component/react-smart-component.github.io"
+    },
+    "github-buttons": {
+      "repo": "react-smart-component/react-smart-component.github.io",
+      "types": [
+        "star"
+      ],
+      "size": "small"
+    },
+    "include-codeblock": {
+      "template": "ace",
+      "unindent": true,
+      "edit": true
+    },
+    "sharing": {
+      "weibo": true,
+      "facebook": true,
+      "twitter": true,
+      "google": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "facebook",
+        "google",
+        "twitter",
+        "weibo",
+        "instapaper"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright © react-smart-component 2017",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "donate": {
+      "wechat": "http://cyqresig.github.io/img/cyq_webchat_pay.jpg",
+      "alipay": "http://cyqresig.github.io/img/cyq_alipay.jpg",
+      "title": "",
+      "button": "打赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "simple-page-toc": {
+      "maxDepth": 3,
+      "skipFirstH1": true
+    },
+    "edit-link": {
+      "base": "https://github.com/react-smart-component/react-smart-component.github.io/edit/master",
+      "label": "Edit This Page"
+    },
+    "sitemap-general": {
+      "prefix": "https://react-smart-component.github.io"
+    },
+    "anchor-navigation-ex": {
+      "isRewritePageTitle": false,
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right"
+    },
+    "sectionx": {
+      "tag": "b"
+    },
+    "favicon": {
+      "shortcut": "favicon.ico",
+      "bookmark": "favicon.ico"
+    }
+  }
+}
