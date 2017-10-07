@@ -16,19 +16,4 @@ A gitbook generator for react-smart-component
 
 * access http://localhost:4000/ on your browser
 
-## Publish
-
-* git commit -m <message> 
-
-* git push origin <branch>
-
-* cd _book 
-
-* git add . && git commit -m <message> 
-
-* git remote add origin https://github.com/react-smart-component/react-smart-component.github.io
-
-* git push origin <branch>
-
-
 
