@@ -23,9 +23,9 @@ Inspired by [react-native-button][6]
 npm install react-native-smart-button --save
 ```
 
-## Full Demo
+## Live Demo
 
-see [ReactNativeComponentDemos][0]
+* <a target="_blank" href="./sample-demo1.html">demo1</a>
 
 ## Usage
 
