@@ -1,2 +1,3 @@
-# generator-rsc
-Scaffold out a react-smart-component
+# react-smart-component gitbook app
+
+A gitbook generator for react-smart-component
