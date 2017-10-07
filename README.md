@@ -18,9 +18,17 @@ A gitbook generator for react-smart-component
 
 ## Publish
 
-* git commit -m <message> && git push origin <branch>
+* git commit -m <message> 
 
-* cd _book && git add . && git commit -m <message> && git push origin <branch>
+* git push origin <branch>
+
+* cd _book 
+
+* git add . && git commit -m <message> 
+
+* git remote add origin https://github.com/react-smart-component/react-smart-component.github.io
+
+* git push origin <branch>
 
 
 
